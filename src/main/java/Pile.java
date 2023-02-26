@@ -29,7 +29,7 @@ public class Pile {
     }
     /**
     Ajoute un élément à la pile
-    @param int pfElement, un nouvel élément de la pile
+    @param pfElement, un nouvel élément de la pile
      */
     public void empiler(int pfElement) {
         this.som++;
